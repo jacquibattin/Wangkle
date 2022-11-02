@@ -4,7 +4,7 @@
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Not enough letters",
-    "wordNotFound": "Word not found",
+    "wordNotFound": "Paki! Word not found",
     "solution": "The word was {{solution}}",
     "gameCopied": "Game copied to clipboard",
     "howToPlay": "How to play",
@@ -12,7 +12,7 @@
     "pickYourLanguage": "Choose a language",
     "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
     "wrongSpotInstructions": "The letter L is in the word but in the wrong spot.",
-    "notInWordInstructions": "The letter U is not in the word in any spot.",
+    "notInWordInstructions": "The letter R is not in the word in any spot.",
     "guessDistribution": "Guess Distribution",
     "statistics": "Statistics",
     "totalTries": "Total tries",
@@ -23,7 +23,7 @@
     "share": "Share",
     "winMessages": [
         "Great Job!",
-        "Awesome",
+        "Yuwayi!",
         "Well done!",
         "Palya!",
         "Yuuu!"
@@ -54,7 +54,7 @@
         }
     ],
     "secondExampleWord": [{
-            "letter": "P",
+            "letter": "J",
             "highlight": false
         },
         {
@@ -62,24 +62,24 @@
             "highlight": false
         },
         {
-            "letter": "L",
-            "highlight": true
+            "letter": "R",
+            "highlight": false
         },
         {
-            "letter": "O",
-            "highlight": false
+            "letter": "N",
+            "highlight": true
         },
         {
             "letter": "T",
             "highlight": false
+        },
+        {
+            "letter": "U",
+            "highlight": false
         }
     ],
     "thirdExampleWord": [{
-            "letter": "V",
-            "highlight": false
-        },
-        {
-            "letter": "A",
+            "letter": "N",
             "highlight": false
         },
         {
@@ -88,10 +88,18 @@
         },
         {
             "letter": "U",
+            "highlight": false
+        },
+        {
+            "letter": "R",
             "highlight": true
         },
         {
-            "letter": "E",
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "A",
             "highlight": false
         }
     ],
