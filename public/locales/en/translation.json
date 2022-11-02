@@ -1,6 +1,6 @@
 {
     "about": "About this game",
-    "gameName": "Not Wordle - {{language}}",
+    "gameName": "Wangkle",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Not enough letters",
@@ -24,26 +24,32 @@
     "winMessages": [
         "Great Job!",
         "Awesome",
-        "Well done!"
+        "Well done!",
+        "Palya!",
+        "Yuuu!"
     ],
     "firstExampleWord": [{
             "letter": "W",
             "highlight": true
         },
         {
-            "letter": "E",
-            "highlight": false
-        },
-        {
             "letter": "A",
             "highlight": false
         },
         {
-            "letter": "R",
+            "letter": "N",
             "highlight": false
         },
         {
-            "letter": "Y",
+            "letter": "G",
+            "highlight": false
+        },
+        {
+            "letter": "K",
+            "highlight": false
+        },
+        {
+            "letter": "A",
             "highlight": false
         }
     ],
@@ -89,7 +95,7 @@
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by {{author}}. ",
     "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
     "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "You can also play the original  <1>here</1>",
