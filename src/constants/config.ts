@@ -3,7 +3,7 @@ export const CONFIG = {
   language: 'Martu Wangka', // This changes the display name for your language
   wordLength: 6, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Jacqui Battin', // Put your name here so people know who made this Wordle!
-  // authorWebsite: 'YourLinkHere', // Put a link to your website or social media here
+  authorWebsite: '', // Put a link to your website or social media here
   wordListSource: 'Martu Wangka Dictionary, 2006, an electronic dictionary published by Wangka Maya Pilbara Aboriginal Language Centre, which compiles data from Marsh (1992) and Hansen (2004)', // Describe the source material for your words here
   wordListSourceLink: 'wangkamaya.org.au', // Put a link to the source material for your words here
   //
