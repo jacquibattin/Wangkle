@@ -11,7 +11,7 @@
     "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word.",
     "pickYourLanguage": "Choose a language",
     "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
-    "wrongSpotInstructions": "The letter L is in the word but in the wrong spot.",
+    "wrongSpotInstructions": "The letter I is in the word but in the wrong spot.",
     "notInWordInstructions": "The letter R is not in the word in any spot.",
     "guessDistribution": "Guess Distribution",
     "statistics": "Statistics",
@@ -59,7 +59,7 @@
         },
         {
             "letter": "I",
-            "highlight": false
+            "highlight": true
         },
         {
             "letter": "R",
@@ -67,7 +67,7 @@
         },
         {
             "letter": "N",
-            "highlight": true
+            "highlight": false
         },
         {
             "letter": "T",
