@@ -1,6 +1,6 @@
 {
     "about": "Acerca de este juego",
-    "gameName": "No Wordle - {{language}}",
+    "gameName": "Wangkle",
     "enterKey": "Enviar",
     "deleteKey": "Eliminar",
     "notEnoughLetters": "No hay suficientes letras",
