@@ -13,7 +13,6 @@ export const ORTHOGRAPHY = [
   'p',
   'r',
   't',
-  'j',
   'w',
   'y'
 ]
