@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wangkle/static/css/main.dcf260e5.css",
-    "main.js": "/Wangkle/static/js/main.3090641e.js",
+    "main.js": "/Wangkle/static/js/main.a48f3efc.js",
     "static/js/787.037f9337.chunk.js": "/Wangkle/static/js/787.037f9337.chunk.js",
     "static/media/BCSans-Bold.woff": "/Wangkle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Wangkle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/Wangkle/index.html",
     "static/media/getFetch.cjs": "/Wangkle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.dcf260e5.css.map": "/Wangkle/static/css/main.dcf260e5.css.map",
-    "main.3090641e.js.map": "/Wangkle/static/js/main.3090641e.js.map",
+    "main.a48f3efc.js.map": "/Wangkle/static/js/main.a48f3efc.js.map",
     "787.037f9337.chunk.js.map": "/Wangkle/static/js/787.037f9337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcf260e5.css",
-    "static/js/main.3090641e.js"
+    "static/js/main.a48f3efc.js"
   ]
 }
