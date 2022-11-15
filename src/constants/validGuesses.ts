@@ -512,6 +512,7 @@ export const VALIDGUESSES = [
 'waralu',
 'waranu',
 'warati',
+'warnan',
 'warnma',
 'warntu',
 'wartil',
