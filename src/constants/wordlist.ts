@@ -124,7 +124,8 @@ export const WORDS = [
 'majula',
 'yutila',
 'pakala',
-'jarrpa'
+'jarrpa',
+'kipara'
 ]
 
 if (CONFIG.normalization) {
